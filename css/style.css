@@ -1,1 +1,885 @@
-body{font-family:'Poppins',sans-serif;margin:0;padding:0;background:#000}.header1{display:flex;align-items:center;justify-content:space-between;background:#000;margin:0;padding:0;color:#2ba977;padding:2px 10px}nav ul{list-style:none;color:#fff;margin:0;padding:0}nav ul li{display:inline;color:#fff}nav ul li a{display:inline-block;padding:10px 20px;color:#fff;text-decoration:none}nav ul li a:hover{display:inline-block;padding:10px 20px;color:#2ba977;text-decoration:none}.saudacao{background:#000;color:#fff;display:grid;grid-template-columns:repeat(2,1fr);grid-gap:6rem;align-items:center;height:540px}.saudacao-texto h1 b{font-size:31px;margin:80px 0 0 100px;display:inline-block}.saudacao-texto h4{font-size:15px;margin:-25px 0 0 100px;display:block}.github img{width:50px;height:50px;display:inline;margin:250px 0 0 -1150px}.github p b{margin:-60px 0 0 -1070px;display:block}.foto img{width:400px;height:auto;margin:-400px 0 0 750px;display:block;border:10px solid rgba(255,255,255,0.9)}.quemsouSection{background:#fff;height:635px;text-align:center}.quemsouDiv h1{font-size:31px;margin:50px 0 0 50px}.quemsouDiv p{font-size:18px;margin:100px 0 0 50px}.projetos{background:#2ba977;height:680px;margin:-50px 0 0}.projetos h1{font-size:31px;margin:50px 0 0 50px;color:#fff}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:70px 0 0;text-align:center;font-size:15px}.caixasProjetos h5{color:#000;font-size:20px}.cartas{width:335px;height:365px;padding:20px 35px;background:rgba(255,255,255,0.6);border-radius:20px;margin:15px;position:relative;overflow:hidden}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.procuro{background:#000;height:855px;margin:-50px 0 0;color:#fff;align-items:center;text-align:center}.procuro p span{color:#2ba977}.procuroImg{width:60px;height:auto}.conhecimentos{background:#2ba977;margin:-10px 0 0;height:418px}.conhecimentosParagrafo{color:#fff;text-align:center;padding:50px 0 0}.footer{background:#000;color:#fff;height:200px;margin:0 0 0 50px}.footer h1{color:#2ba977}.iconLinkedin{font-size:40px;margin:-160px 0 0 1120px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}@media only screen and (max-width: 600px){body{overflow-x:hidden}.saudacao-texto h1 b{font-size:25px;margin:80px 0 0 50px;display:inline-block}.saudacao-texto h4{font-size:12px;margin:10px 0 0 50px;display:block}.foto img{display:none}.github img{width:30px;height:30px;display:inline;margin:150px 0 0 70px}.github p b{margin:0;display:block}.quemsouDiv h1{font-size:25px;margin:50px 0 0 20px}.quemsouDiv p{font-size:12px;margin:80px 0 0 20px}.projetos h1{font-size:25px;margin:50px 0 0 20px;color:#fff}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:50px 0 0;text-align:center;font-size:12px}.caixasProjetos h5{color:#000;font-size:12px}.cartas{width:380px;height:480px;padding:10px 25px;background:rgba(255,255,255,0.6);border-radius:20px;margin:15px;position:relative;overflow:hidden;font-size:10px}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:0;border-radius:30px;text-decoration:none;font-size:9px;margin:0 0 0 -10px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:0;border-radius:30px;text-decoration:none;font-size:9px}.procuro{background:#000;height:855px;margin:-50px 0 0;color:#fff;align-items:center;text-align:center;font-size:12px}.procuro p span{color:#2ba977;font-size:12px}.procuroImg{width:60px;height:auto}.conhecimentosParagrafo{font-size:12px}.footer{background:#000;color:#fff;height:200px;margin:0 0 0 50px}.footer h1{color:#2ba977}.footer p{font-size:12px}.iconLinkedin{font-size:30px;margin:-165px 0 0 300px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}}@media only screen and (min-width: 600px){body{overflow-x:hidden}.foto img{display:none}.github img{width:30px;height:30px;display:inline;margin:150px 0 0 70px}.github p b{margin:0;display:block}.quemsouDiv h1{font-size:31px;margin:80px 0 0}.quemsouDiv p{font-size:14px;margin:80px 0 0 20px}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:50px 0 0;text-align:center;font-size:12px}.cartas{width:335px;height:500px;padding:10px 25px;background:rgba(255,255,255,0.6);border-radius:20px;margin:5px;position:relative;overflow:hidden;font-size:11px}.caixasProjetos h5{color:#000;font-size:14px}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:10px 20px;border-radius:30px;text-decoration:none;font-size:9px;margin:50px 0 0 -10px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:10px 20px;border-radius:30px;text-decoration:none;font-size:12px}.iconLinkedin{font-size:30px;margin:-200px 0 0 450px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}}@media only screen and (min-width: 768px){.saudacao-texto h1{font-size:25px;margin:30px 0 0 -50px;display:inline-block}.saudacao-texto h4{margin:-10px 0 0 50px}.foto img{width:200px;height:auto;margin:-350px 0 0 500px;display:block;border:10px solid rgba(255,255,255,0.9)}.github img{width:30px;height:30px;display:inline;margin:250px 0 0 -700px}.github p b{margin:-50px 0 0 -650px;display:block}.projetos h1{font-size:25px;margin:50px 0 0 20px;color:#fff}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:50px 0 0;text-align:center;font-size:12px}.caixasProjetos h5{color:#000;font-size:16px}.cartas{width:335px;height:500px;padding:10px 25px;background:rgba(255,255,255,0.6);border-radius:20px;margin:15px;position:relative;overflow:hidden}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:10px 20px;border-radius:30px;text-decoration:none;font-size:12px;margin:0 0 0 -10px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:10px 20px;border-radius:30px;text-decoration:none;font-size:12px}.iconLinkedin{font-size:30px;margin:-200px 0 0 600px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}}@media only screen and (min-width: 992px){.saudacao{background:#000;color:#fff;display:grid;grid-template-columns:repeat(2,1fr);grid-gap:6rem;align-items:center;height:540px}.saudacao-texto h1 b{font-size:31px;margin:80px 0 0 150px;display:inline-block}.saudacao-texto h4{font-size:15px;margin:-5px 0 0 100px;display:block}.github img{width:50px;height:50px;display:inline;margin:250px 0 0 -950px}.github p b{margin:-60px 0 0 -880px;display:block}.foto img{width:300px;height:auto;margin:-400px 0 0 650px;display:block;border:10px solid rgba(255,255,255,0.9)}.quemsouSection{background:#fff;height:635px;text-align:center}.quemsouDiv h1{font-size:31px;margin:50px 0 0 50px}.quemsouDiv p{font-size:18px;margin:100px 0 0 50px}.projetos{background:#2ba977;height:680px;margin:-50px 0 0}.paragrafoProject{font-size:15px}.projetos h1{font-size:31px;margin:50px 0 0 50px;color:#fff}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:70px 0 0;text-align:center;font-size:15px}.caixasProjetos h5{color:#000;font-size:20px}.cartas{width:335px;height:365px;padding:20px 35px;background:rgba(255,255,255,0.6);border-radius:20px;margin:15px;position:relative;overflow:hidden}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.imgProjetos{width:100px;height:auto;margin:10px 0 0}.iconLinkedin{font-size:40px;margin:-205px 0 0 800px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}}@media only screen and (min-width: 1200px){.saudacao{background:#000;color:#fff;display:grid;grid-template-columns:repeat(2,1fr);grid-gap:6rem;align-items:center;height:540px}.saudacao-texto h1 b{font-size:31px;margin:80px 0 0 150px;display:inline-block}.saudacao-texto h4{font-size:15px;margin:-5px 0 0 100px;display:block}.github img{width:50px;height:50px;display:inline;margin:250px 0 0 -1150px}.github p b{margin:-60px 0 0 -1070px;display:block}.foto img{width:400px;height:auto;margin:-400px 0 0 750px;display:block;border:10px solid rgba(255,255,255,0.9)}.quemsouSection{background:#fff;height:635px;text-align:center}.quemsouDiv h1{font-size:31px;margin:50px 0 0 50px}.quemsouDiv p{font-size:18px;margin:100px 0 0 50px}.projetos{background:#2ba977;height:680px;margin:-50px 0 0}.projetos h1{font-size:31px;margin:50px 0 0 50px;color:#fff}.paragrafoProject{font-size:20px}.caixasProjetos{display:flex;justify-content:center;align-items:center;margin:70px 0 0;text-align:center;font-size:15px}.caixasProjetos h5{color:#000;font-size:20px}.cartas{width:335px;height:365px;padding:20px 35px;background:rgba(255,255,255,0.6);border-radius:20px;margin:15px;position:relative;overflow:hidden}.botaoprojeto{background:#2ba977;color:#fff;border:2px solid #2ba977;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.botaoprojeto:hover{background:#fff;color:#2ba977;border:2px solid #fff;padding:10px 20px;border-radius:30px;text-decoration:none;padding:10px 20px;font-size:12px}.imgProjetos{width:150px;height:auto;margin:5px 0 0}.iconLinkedin{font-size:40px;margin:-205px 0 0 1120px;color:#2ba977}.linksIcon{color:#2ba977}.fa-brands fa-linkedin-in{color:#2ba977}}
+body{
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	background: #000;	
+}
+
+/* HEADER */
+.header1{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: #000;
+	margin: 0;
+	padding: 0;
+	color: #2ba977;
+	padding: 2px 10px;
+}
+
+nav ul{
+	list-style: none;
+	color: #fff;
+	margin-right: 60px;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li{
+	display: inline;
+	color: #fff;
+}
+
+nav ul li a{
+	display: inline-block;
+	padding: 10px 20px;
+	color:  #fff;
+	text-decoration: none;
+}
+
+
+nav ul li a:hover{
+	display: inline-block;
+	padding: 10px 20px;
+	color:  #2ba977;
+	text-decoration: none;
+}
+
+/*CSS DA SECAO SAUDACAO*/
+.saudacao{
+	background: #000;
+	color: #fff;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 6rem;
+	align-items: center;
+	height: 540px;
+}
+
+.saudacao-texto h1 b{
+	font-size: 31px;
+	margin: 80px 0 0 100px;
+	display: inline-block;
+}
+
+.saudacao-texto h4{
+	font-size: 15px;
+	margin: -25px 0 0 100px;
+	display: block;	
+}
+
+.github img{
+	width: 50px;
+	height: 50px;
+	display: inline;
+	margin: 250px 0 0 -1150px;
+}
+
+.github p b{
+	margin: -60px 0 0 -1070px;
+	display: block;
+}
+
+.foto img{
+	width: 400px;
+	height: auto;
+	margin: -400px 0 0 750px;
+	display: block;
+	border: 10px solid rgba(255,255,255,0.9);
+}
+
+/*CSS DA SECAO QUEM SOU*/
+.quemsouSection{
+	background: #fff;
+	height: 635px;
+	text-align: center;
+}
+
+.quemsouDiv h1{
+	font-size: 31px;
+	margin: 50px 0 0 50px;
+}
+
+.quemsouDiv p{
+	font-size: 18px;
+	margin: 100px 0 0 50px;
+}
+
+/* PROJETOS*/
+.projetos{
+	background: #2ba977;
+	height: 800px;
+	margin: -50px 0 0 0;
+}
+
+.projetos h1{
+	font-size: 31px;
+	text-align: center;
+	color: #fff;
+}
+
+.projetos .projetosTitle p{
+	color: #fff;
+	text-align: center;
+}
+
+.caixasProjetos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 70px 0 0 0;
+	text-align: center;
+	font-size: 	15px;
+}
+
+.cartas{
+	width: 135px;
+	height: 220px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+/*PROCURO*/
+.procuro{
+	background: #000;
+	height: 855px;
+	margin: -50px 0 0 0;
+	color: #fff;
+	align-items: center;
+	text-align: center;
+}
+
+.procuro p span{
+	color: #2ba977;
+}
+
+.procuroImg{
+	width: 60px;
+	height: auto;
+}
+
+/*CONHECIMENTOS*/
+.conhecimentos{
+	background: #2ba977;
+	margin: -10px 0 0 0;
+	height: 418px;
+}
+
+.conhecimentosParagrafo{
+	color: #fff;
+	text-align: center;
+	padding: 50px 0 0 0;
+}
+
+/*FOOTER*/
+.footer{
+	background: #000;
+	color: #fff;
+	height: 200px;
+	margin: 0 0 0 50px;
+}
+
+.footer h1{
+	color: #2ba977;
+ }
+
+.iconLinkedin{
+	font-size: 40px;
+	margin: -160px 0 0 1120px;
+	color: #2ba977;	
+}
+
+.linksIcon{
+	color: #2ba977;
+}
+
+.fa-brands fa-linkedin-in{
+	color: #2ba977;
+}
+
+/*RESPONSVIDADE*/
+/* Smartphones (600px para baixo) */
+@media only screen and (max-width: 600px) {
+	body{
+		overflow-x: hidden;
+	}
+	/*PARTE DA SAUDACAO*/
+	.saudacao-texto h1 b{
+		font-size: 25px;
+		margin: 80px 0 0 50px;
+		display: inline-block;
+	}
+
+	.saudacao-texto h4{
+		font-size: 12px;
+		margin: 10px 0 0 50px;
+		display: block;	
+	}
+	
+	.foto img{
+		display: none;
+	}
+
+	.github img{
+		width: 30px;
+		height: 30px;
+		display: inline;
+		margin: 150px 0 0 70px;
+	}
+
+	.github p b{
+		margin: 0 0 0 0;
+		display: block;
+	}
+
+	/*PARTE DE QUEM SOU*/
+	.quemsouDiv h1{
+		font-size: 25px;
+		margin: 50px 0 0 20px;
+	}
+
+	.quemsouDiv p{
+		font-size: 12px;
+		margin: 80px 0 0 20px;
+	}
+
+	/*PARTE DOS PROJETOS*/
+	.projetos h1{
+		font-size: 25px;
+		margin: 50px 0 0 20px;
+		color: #fff;
+	}
+
+.caixasProjetos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 70px 0 0 0;
+	text-align: center;
+	font-size: 	15px;
+}
+
+.cartas{
+	width: 135px;
+	height: 205px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+	/*PARTE DO QUE PROCURO*/
+	.procuro{
+		background: #000;
+		height: 855px;
+		margin: -50px 0 0 0;
+		color: #fff;
+		align-items: center;
+		text-align: center;
+		font-size: 11px;
+	}
+	
+	.procuro p span{
+		color: #2ba977;
+		font-size: 11px;
+	}
+
+	.procuroImg{
+		width: 60px;
+		height: auto;
+	}
+
+	.conhecimentosParagrafo{
+		font-size: 12px;
+	}
+
+	/*PARTE DO FOOTER*/
+	.footer{
+		background: #000;
+		color: #fff;
+		height: 200px;
+		margin: 0 0 0 50px;
+	}
+
+	.footer h1{
+		color: #2ba977;
+ 	}
+
+ 	.footer p{
+ 		font-size: 12px;
+ 	}
+
+	.iconLinkedin{
+		font-size: 30px;
+		margin: -165px 0 0 300px;
+		color: #2ba977;	
+	}
+
+	.linksIcon{
+		color: #2ba977;
+	}
+
+	.fa-brands fa-linkedin-in{
+		color: #2ba977;
+	}	
+}
+
+/* Dispositivos um pouco maiores, mas ainda pequenos (Pequenos Tablets e Smartphones + largos, 600px para cima) */
+@media only screen and (min-width: 600px) {
+	body{
+		overflow-x: hidden;
+	}
+
+	.foto img{
+		display: none;
+	}
+
+	.github img{
+		width: 30px;
+		height: 30px;
+		display: inline;
+		margin: 150px 0 0 70px;
+	}
+
+	.github p b{
+		margin: 0 0 0 0;
+		display: block;
+	}
+
+	.quemsouDiv h1{
+		font-size: 31px;
+		margin: 80px 0 0 0;
+	}
+
+	.quemsouDiv p{
+		font-size: 14px;
+		margin: 80px 0 0 20px;
+	}
+
+	.caixasProjetos{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 50px 0 0 0;
+		text-align: center;
+		font-size: 	12px;
+	}
+
+.cartas{
+	width: 135px;
+	height: 205px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+/*PARTE DO QUE PROCURO*/
+	.procuro{
+		background: #000;
+		height: 855px;
+		margin: -50px 0 0 0;
+		color: #fff;
+		align-items: center;
+		text-align: center;
+		font-size: 12px;
+	}
+	
+	.procuro p span{
+		color: #2ba977;
+		font-size: 12px;
+	}
+
+
+	.iconLinkedin{
+		font-size: 30px;
+		margin: -200px 0 0 450px;
+		color: #2ba977;	
+	}
+
+	.linksIcon{
+		color: #2ba977;
+	}
+
+	.fa-brands fa-linkedin-in{
+		color: #2ba977;
+	}
+}
+
+/*Dispostivos Médios (Tablets deitados, 768px para cima) */
+@media only screen and (min-width: 768px) {
+	.saudacao{
+		width: 800px;
+	}
+
+	.quemsouSection{
+		width: 800px;
+	}
+
+	.saudacao-texto h1{
+		font-size: 25px;
+		margin: 30px 0 0 -50px;
+		display: inline-block;
+	}
+
+	.saudacao-texto h4{
+		margin: -10px 0 0 50px;
+	}
+
+	.foto img{
+		width: 200px;
+		height: auto;
+		margin: -350px 0 0 500px;
+		display: block;
+		border: 10px solid rgba(255,255,255,0.9);
+	}
+
+	.github img{
+		width: 30px;
+		height: 30px;
+		display: inline;
+		margin: 250px 0 0 -700px;
+	}
+
+	.github p b{
+		margin: -50px 0 0 -650px;
+		display: block;
+	}
+
+	.quemsouSection{
+		width: 850px;
+	}
+
+	/*PARTE DOS PROJETOS*/
+.projetos{
+	background: #2ba977;
+	width: 850px;
+	height: 850px;
+	margin: -50px 0 0 0;
+}
+
+	.projetos h1{
+		font-size: 25px;
+		margin: 50px 0 0 20px;
+		color: #fff;
+	}
+
+	.caixasProjetos {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 50px 0 0 0;
+		text-align: center;
+		font-size: 12px;
+	}
+
+	.caixasProjetos h5{
+		color: #000;
+		font-size: 16px;
+	}	
+
+.cartas{
+	width: 135px;
+	height: 205px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+/*PARTE DO QUE PROCURO*/
+	.procuro{
+		background: #000;
+		width: 850px;
+		height: 855px;
+		margin: -50px 0 0 0;
+		color: #fff;
+		align-items: center;
+		text-align: center;
+		font-size: 13px;
+	}
+	
+	.procuro p span{
+		color: #2ba977;
+		font-size: 13px;
+	}
+
+	.conhecimentos{
+		width: 850px;
+	}
+
+	.footer{
+		width: 800px;
+	}
+
+	.iconLinkedin{
+		font-size: 30px;
+		margin: -200px 0 0 600px;
+		color: #2ba977;	
+	}
+
+	.linksIcon{
+		color: #2ba977;
+	}
+
+	.fa-brands fa-linkedin-in{
+		color: #2ba977;
+	}
+
+}
+
+/* Dispostivos Largos (laptops/desktops, 992px para cima) */
+@media only screen and (min-width: 992px) {
+	.saudacao{
+		background: #000;
+		color: #fff;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 6rem;
+		align-items: center;
+		height: 540px;
+	}
+
+	.saudacao-texto h1 b{
+		font-size: 31px;
+		margin: 80px 0 0 150px;
+		display: inline-block;
+	}
+
+	.saudacao-texto h4{
+		font-size: 15px;
+		margin: -5px 0 0 100px;
+		display: block;	
+	}
+
+	.github img{
+		width: 50px;
+		height: 50px;
+		display: inline;
+		margin: 250px 0 0 -950px;
+	}
+
+	.github p b{
+		margin: -60px 0 0 -880px;
+		display: block;
+	}
+
+	.foto img{
+		width: 300px;
+		height: auto;
+		margin: -400px 0 0 650px;
+		display: block;
+		border: 10px solid rgba(255,255,255,0.9);
+	}
+
+/*CSS DA SECAO QUEM SOU*/
+	.quemsouSection{
+		background: #fff;
+		width: 1065px;
+		height: 635px;
+		text-align: center;
+	}
+
+	.quemsouDiv h1{
+		font-size: 31px;
+		margin: 50px 0 0 50px;
+	}
+
+	.quemsouDiv p{
+		font-size: 18px;
+		margin: 100px 0 0 50px;
+	}
+
+/* PROJETOS*/
+	/*PARTE DOS PROJETOS*/
+.projetos{
+	background: #2ba977;
+	width: 1065px;
+	height: 850px;
+	margin: -50px 0 0 0;
+}
+
+	.projetos h1{
+		font-size: 25px;
+		margin: 50px 0 0 20px;
+		color: #fff;
+	}
+
+	.caixasProjetos {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 50px 0 0 0;
+		text-align: center;
+		font-size: 12px;
+	}
+
+	.caixasProjetos h5{
+		color: #000;
+		font-size: 16px;
+	}	
+
+.cartas{
+	width: 135px;
+	height: 205px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+	.procuro{
+		width: 1065px;
+		font-size: 14px;
+	}
+
+	.conhecimentos{
+		width: 1065px;
+	}
+
+	.footer{
+		width: 1000px;
+	}
+
+	.iconLinkedin{
+		font-size: 40px;
+		margin: -205px 0 0 800px;
+		color: #2ba977;	
+	}
+
+	.linksIcon{
+		color: #2ba977;
+	}
+
+	.fa-brands fa-linkedin-in{
+		color: #2ba977;
+	}
+}
+
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
+@media only screen and (min-width: 1200px) {
+	.saudacao{
+		background: #000;
+		color: #fff;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-gap: 6rem;
+		align-items: center;
+		height: 540px;
+	}
+
+	.saudacao-texto h1 b{
+		font-size: 31px;
+		margin: 80px 0 0 150px;
+		display: inline-block;
+	}
+
+	.saudacao-texto h4{
+		font-size: 15px;
+		margin: -5px 0 0 100px;
+		display: block;	
+	}
+
+	.github img{
+		width: 50px;
+		height: 50px;
+		display: inline;
+		margin: 250px 0 0 -1150px;
+	}
+
+.github p b{
+	margin: -60px 0 0 -1070px;
+	display: block;
+}
+
+.foto img{
+	width: 400px;
+	height: auto;
+	margin: -400px 0 0 750px;
+	display: block;
+	border: 10px solid rgba(255,255,255,0.9);
+}
+
+/*CSS DA SECAO QUEM SOU*/
+.quemsouSection{
+	background: #fff;
+	height: 635px;
+	width: 1350px;
+	text-align: center;
+}
+
+.quemsouDiv h1{
+	font-size: 31px;
+	margin: 50px 0 0 50px;
+}
+
+.quemsouDiv p{
+	font-size: 18px;
+	margin: 100px 0 0 50px;
+}
+
+/* PROJETOS*/
+.projetos{
+	background: #2ba977;
+	width: 1350px;
+	height: 850px;
+	margin: -50px 0 0 0;
+}
+
+.projetos h1{
+	font-size: 31px;
+	text-align: center;
+	color: #fff;
+}
+
+.projetos .projetosTitle p{
+	color: #fff;
+	text-align: center;
+}
+
+.paragrafoProject{
+	font-size: 20px;
+}
+
+.caixasProjetos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 70px 0 0 0;
+	text-align: center;
+	font-size: 	15px;
+}
+
+.cartas{
+	width: 135px;
+	height: 220px;
+	padding: 20px 35px;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cartas h5 a{
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	color: #2ba977;
+}
+
+.cartas h5 a:hover{
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+.procuro{
+	width: 1350px;
+	font-size: 14px;
+}
+
+.procuro p span{
+	font-size: 14px;
+}
+
+.conhecimentos{
+	width: 1350px;
+}
+
+	.iconLinkedin{
+		font-size: 40px;
+		margin: -205px 0 0 1120px;
+		color: #2ba977;	
+	}
+
+	.linksIcon{
+		color: #2ba977;
+	}
+
+	.fa-brands fa-linkedin-in{
+		color: #2ba977;
+	}
+}
+
+
+
